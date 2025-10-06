@@ -1,5 +1,4 @@
-# Assignment 1
-
+# Flappy Birb
 ## Usage
 
 Setup (requires node.js):
@@ -75,3 +74,4 @@ src/
   view.ts        -- rendering
   observable.ts  -- functions to create Observable streams
 ```
+
